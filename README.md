@@ -18,10 +18,23 @@ This mod is an updated version of ds5678's [Forge Blueprints Mod](https://github
 - **Arrow Production**: Efficient arrow heads (7 per batch), recycle arrow heads for scrap
 - All recipes improve your **Gunsmithing skill**!
 
+## Requirements ⚠️
+
+**This mod requires [ModComponent](https://github.com/dommrogers/ModComponent) to work!**
+
+ModComponent dependencies (install in order):
+1. [MelonLoader](https://github.com/LavaGang/MelonLoader) - mod loader
+2. [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings) - for mod configuration
+3. [ModComponent](https://github.com/dommrogers/ModComponent) - **required** for blueprint mods
+
 ## Installation 
 
-* Download latest .modcomponent file in [releases](), unzip, drop both .modcomponent and .dll files in the mod folder and enjoy!
-* Requires [ModComponent](https://github.com/dommrogers/ModComponent) and all its dependencies to work.
+1. Install **MelonLoader** in your The Long Dark folder
+2. Download and install **ModSettings** → place DLL in `Mods/` folder
+3. Download and install **ModComponent** → place DLL in `Mods/` folder
+4. Download **ForgeBlueprints-v2.0.0.modcomponent** from [Releases](https://github.com/NicoriciN89/Forge-Blueprints-DLC/releases)
+5. Place the `.modcomponent` file in your `Mods/` folder
+6. Launch the game and enjoy crafting at the forge!
 
 ## Contents
 
