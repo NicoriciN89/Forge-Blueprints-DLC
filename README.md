@@ -27,6 +27,8 @@ ModComponent dependencies (install in order):
 2. [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings) - for mod configuration
 3. [ModComponent](https://github.com/dommrogers/ModComponent) - **required** for blueprint mods
 
+📖 **See [DEPENDENCIES.md](DEPENDENCIES.md) for detailed installation instructions and troubleshooting.**
+
 ## Installation 
 
 1. Install **MelonLoader** in your The Long Dark folder
