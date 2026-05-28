@@ -1,0 +1,7 @@
+*.modcomponent
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo

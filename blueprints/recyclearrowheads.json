@@ -1,0 +1,16 @@
+{
+    "Name": "RecycleArrowHeads",
+    "RequiredGear": [{"Item": "GEAR_Arrowhead", "Count": 10}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Hammer",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ScrapMetal",
+    "CraftedResultCount": 3,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_CraftingForge",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}

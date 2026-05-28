@@ -1,0 +1,16 @@
+{
+    "Name": "HeavyHammer",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 8},{"Item": "GEAR_Hardwood", "Count": 1} ],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Hammer",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 300,
+    "CraftingAudio": "Play_CraftingForge",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}

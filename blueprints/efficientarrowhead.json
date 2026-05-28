@@ -1,0 +1,16 @@
+{
+    "Name": "EfficientArrowHeads",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 3}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Hammer",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ArrowHead",
+    "CraftedResultCount": 7,
+    "DurationMinutes": 180,
+    "CraftingAudio": "Play_CraftingForge",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}

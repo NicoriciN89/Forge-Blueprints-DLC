@@ -1,0 +1,16 @@
+{
+    "Name": "SimpleToolsKnife",
+    "RequiredGear": [{"Item": "GEAR_ScrapMetal", "Count": 2}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_Hammer",
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SimpleToolsKnife",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 150,
+    "CraftingAudio": "Play_CraftingForge",
+    "AppliedSkill" : "Gunsmithing",
+    "ImprovedSkill" : "Gunsmithing"
+}
